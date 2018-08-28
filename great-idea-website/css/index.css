@@ -64,3 +64,12 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+.features-title {
+	display: inline-block;
+   
+}
+
+.footer {
+	text-align: center;
+}
